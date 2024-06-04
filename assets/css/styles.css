@@ -184,6 +184,10 @@ button .arrow {
     transform: rotate(135deg);
 }
 
+.list-kuliner{
+    list-style-type: upper-roman;
+}
+
 @media screen and (max-width:1200px) {
 
     main{
